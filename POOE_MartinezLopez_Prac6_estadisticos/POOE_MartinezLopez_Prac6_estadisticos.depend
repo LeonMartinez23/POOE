@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612838020 source:/home/leon/Escritorio/POOE/POOE_MartinezLopez_Prac6_estadisticos/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+	<vector>
+

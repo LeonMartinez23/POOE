@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612382160 source:/home/leon/Escritorio/POOE/POOE_MartinezLopez_Prac5_fstream/main.cpp
+	<iostream>
+	<fstream>
+
